@@ -1,11 +1,11 @@
 package main;
 
-import logic.UserActivityLogic;
+import service.UserActivityLogic;
 
 public class Main {
 
-    // TODO
-    // ~~
+    //TODO
+    // ~
 
     public static void main(String[] args) {
         UserActivityLogic.fetchUser();
